@@ -12,7 +12,7 @@ A Janela de Johari é uma atividade de autoconhecimento que ajuda a entender com
 
 ## Minha atividade
 
-![Uploading Captura de tela 2026-11-26 103932.png…]()
+<img width="1219" height="679" alt="Captura de tela 2026-11-26 103932" src="https://github.com/user-attachments/assets/63934ccc-d592-444c-a364-15b838116d38" />
 
 
 
